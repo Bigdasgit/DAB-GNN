@@ -1,0 +1,8 @@
+STRUCTURAL = 'structural'
+ATTRIBUTE = 'attribute'
+VANILLA = 'vanilla'
+GCN_STRING = 'gcn'
+WD_APPROXIMATOR = 'wd_approximator'
+BAIL = 'bail'
+CLASSIFIER = 'classifier'
+NON_LINEAR = 'non_linear'

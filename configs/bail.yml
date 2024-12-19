@@ -1,0 +1,15 @@
+a_lr: 0.001
+s_lr: 0.0003
+l_lr: 0.003
+c_lr: 0.0002
+v_lr: 0.001
+lr: 0.003
+a_alpha: 1
+s_alpha: 1
+l_alpha: 1
+dis: 0.0005
+l_dis: 0.0005
+k: 1
+layers: 3
+enable_bn: False
+div_by_hidden: True
